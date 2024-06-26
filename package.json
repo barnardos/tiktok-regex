@@ -14,10 +14,13 @@
     "tiktok",
     "regex"
   ],
-  "author": "Manisha Patel",
-  "license": "ISC",
+  "author": "Barnardos webteam",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/barnardos/tiktok-regex/issues"
   },
-  "homepage": "https://github.com/barnardos/tiktok-regex#readme"
+  "homepage": "https://github.com/barnardos/tiktok-regex#readme",
+  "publishConfig": {
+    "@barnardoswebteam:registry": "https://npm.pkg.github.com"
+  }
 }
