@@ -1,0 +1,23 @@
+{
+  "name": "@barnardoswebteam/tiktok-regex",
+  "version": "1.0.0",
+  "description": "Tiktok regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnardos/tiktok-regex.git"
+  },
+  "keywords": [
+    "tiktok",
+    "regex"
+  ],
+  "author": "Manisha Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnardos/tiktok-regex/issues"
+  },
+  "homepage": "https://github.com/barnardos/tiktok-regex#readme"
+}
