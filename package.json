@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/barnardos/tiktok-regex.git"
+    "url": "git+https://github.com/barnardos/tiktok-regex.git"
   },
   "keywords": [
     "tiktok",
