@@ -1,5 +1,5 @@
 {
-  "name": "@barnardos/tiktok-regex",
+  "name": "@barnardoswebteam/tiktok-regex",
   "version": "1.0.0",
   "description": "Tiktok regex",
   "main": "index.js",
